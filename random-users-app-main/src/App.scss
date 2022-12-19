@@ -1,0 +1,18 @@
+.logo {
+  float: left;
+  height: 60px;
+  width: 135px;
+  margin: 5px;
+  border-radius: 10px;
+  background-repeat: no-repeat;
+  background-size: 80%;
+}
+
+.site-layout-background {
+
+  padding: 0 100px 10px;
+  @media screen and (max-width: 1100px)  {
+    //css code
+    padding: 0 10px 10px;
+  }
+}
